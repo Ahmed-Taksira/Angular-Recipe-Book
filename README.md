@@ -21,3 +21,7 @@ Allows the user to sign up and log in to the respective account and provides ava
 ### App Module
 
 Serves as the Root Module.
+
+## Deployed Application URL
+
+https://angular-recipe-book-e3bc2.web.app/
