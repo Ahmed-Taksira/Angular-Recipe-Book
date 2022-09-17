@@ -4,4 +4,7 @@ The goal of this project was to learn about the front-end framewrok of angualr a
 
 ## Project Description
 
+The project contains a total of 4 modules: App, Recipes, Shopping, and Auth.
+
+### Recipes Module
 
